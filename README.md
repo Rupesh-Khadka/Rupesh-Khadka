@@ -1,58 +1,46 @@
-# Hi there, I'm [Your Name] 👋
+# Hi, I'm Rupesh Khadka 👋
 
-Welcome to my GitHub profile! I am a passionate developer who loves to learn new technologies, contribute to open-source projects, and collaborate with like-minded people.
+Welcome to my GitHub profile! I'm a passionate **MERN Stack** and **Next.js** developer who loves building scalable, dynamic web applications. With a strong foundation in JavaScript, I focus on creating high-performance, responsive applications that provide seamless user experiences.
 
 ## 🚀 About Me
 
-I'm a [Your profession, e.g., Full-stack Developer] from [Location], with a strong background in [technologies you use, e.g., JavaScript, Python, React, Node.js, etc.]. I love working on exciting projects and solving real-world problems through code.
+I'm a **Full-Stack Developer** based in [Your Location], with a deep understanding of both frontend and backend development. I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) and have hands-on experience with **Next.js** for building production-ready applications.
 
-- 🌱 Currently learning: [e.g., TypeScript, GraphQL, Cloud Computing]
-- 👯 Open to collaborating on: [e.g., Web Development, Mobile Apps, AI Projects]
-- 💬 Ask me about: [e.g., JavaScript, React, Python, Web Development]
-- ⚡ Fun fact: [e.g., I once built a robot that plays chess!]
+- 🌱 **Currently learning**: Exploring **GraphQL** and **Cloud technologies**.
+- 👯 **Looking to collaborate** on exciting projects related to **web development**, **performance optimization**, and **serverless architecture**.
+- 💬 **Ask me about**: **JavaScript**, **React**, **Node.js**, **Next.js**, **Redux**, **API development**.
+- ⚡ **Fun fact**: I enjoy solving coding challenges and have a keen interest in **UI/UX design**.
 
 ## 🔧 Technologies & Tools
 
-Here are the technologies I frequently work with:
+I frequently work with the following tools and technologies:
 
-- **Languages**: JavaScript, Python, HTML, CSS, TypeScript
-- **Frameworks & Libraries**: React, Node.js, Express, Django
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools**: Git, Docker, Webpack, Nginx
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frontend**: React, Next.js, Redux, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express, MongoDB, RESTful APIs
+- **Version Control**: Git, GitHub
+- **Tools**: Webpack, Docker, Postman, Jest
 
-## 📂 My Projects
+## 📂 Featured Projects
 
-Check out some of the projects I’ve been working on:
+Here are some of the projects I've worked on:
 
-- [Project Name](link-to-project) - Brief description of the project.
-- [Project Name](link-to-project) - Brief description of the project.
+- [**Project Name 1**](link-to-project): A **MERN stack** web application that allows users to [feature of the app].
+- [**Project Name 2**](link-to-project): A **Next.js** based e-commerce platform with server-side rendering (SSR) and dynamic routing.
 
-You can find more of my projects in the repositories section.
+Feel free to explore more of my repositories!
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your-twitter](https://twitter.com/your-twitter)
+You can get in touch with me through the following channels:
 
-## 📝 Latest Blog Posts
-
-If I write blog posts, you could include links here:
-- [How to Build a Full-Stack App with React and Node.js](link-to-post)
-- [Understanding Async Await in JavaScript](link-to-post)
-
-## 🔗 Connect with Me
-
-Feel free to connect with me on other platforms:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-twitter)
-- [Blog](https://yourblog.com)
+- Email: [rupeshkhadka000@gmail.com](mailto:rupeshkhadka000@gmail.com)
+- LinkedIn: [Rupesh Khadka](https://www.linkedin.com/in/rupeshkhadka)
+- Twitter: [@rupeshkhadka](https://twitter.com/rupeshkhadka)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=dark)
+![Rupesh Khadka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupesh-Khadka&show_icons=true&count_private=true&hide_title=true&theme=dark)
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-Khadka&layout=compact&theme=dark)
 
