@@ -25,8 +25,8 @@ I frequently work with the following tools and technologies:
 
 Here are some of the projects I've worked on:
 
-- [** Food Ordering App  1**](link-to-project): A **MERN stack** web application that allows users to [feature of the app].
-- [**Project Name 2**](link-to-project): A **Next.js** based e-commerce platform with server-side rendering (SSR) and dynamic routing.
+- [** Food Ordering App **](link-to-project): A **MERN stack** web application that allows users to [feature of the app].
+- [** Online Bus Ticket Booking System **](link-to-project): A **Next.js** based e-commerce platform with server-side rendering (SSR) and dynamic routing.
 
 Feel free to explore more of my repositories!
 
@@ -35,8 +35,7 @@ Feel free to explore more of my repositories!
 You can get in touch with me through the following channels:
 
 - Email: [rupeshkhadka000@gmail.com](mailto:rupeshkhadka000@gmail.com)
-- LinkedIn: [Rupesh Khadka]([https://www.linkedin.com/in/rupeshkhadka](https://www.linkedin.com/in/rupesh-khadka-82602a268/))
-- Twitter: [@rupeshkhadka](https://twitter.com/rupeshkhadka)
+- LinkedIn: [https://www.linkedin.com/in/rupeshkhadka](https://www.linkedin.com/in/rupesh-khadka-82602a268/)
 
 ## 📈 GitHub Stats
 
