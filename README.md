@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack** and **Next.js** de
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** based in [Your Location], with a deep understanding of both frontend and backend development. I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) and have hands-on experience with **Next.js** for building production-ready applications.
+I'm a **Full-Stack Developer** based in Sanothimi,Bhaktapur with a deep understanding of both frontend and backend development. I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) and have hands-on experience with **Next.js** for building production-ready applications.
 
 - 🌱 **Currently learning**: Exploring **GraphQL** and **Cloud technologies**.
 - 👯 **Looking to collaborate** on exciting projects related to **web development**, **performance optimization**, and **serverless architecture**.
@@ -25,7 +25,7 @@ I frequently work with the following tools and technologies:
 
 Here are some of the projects I've worked on:
 
-- [**Project Name 1**](link-to-project): A **MERN stack** web application that allows users to [feature of the app].
+- [** Food Ordering App  1**](link-to-project): A **MERN stack** web application that allows users to [feature of the app].
 - [**Project Name 2**](link-to-project): A **Next.js** based e-commerce platform with server-side rendering (SSR) and dynamic routing.
 
 Feel free to explore more of my repositories!
@@ -35,7 +35,7 @@ Feel free to explore more of my repositories!
 You can get in touch with me through the following channels:
 
 - Email: [rupeshkhadka000@gmail.com](mailto:rupeshkhadka000@gmail.com)
-- LinkedIn: [Rupesh Khadka](https://www.linkedin.com/in/rupeshkhadka)
+- LinkedIn: [Rupesh Khadka]([https://www.linkedin.com/in/rupeshkhadka](https://www.linkedin.com/in/rupesh-khadka-82602a268/))
 - Twitter: [@rupeshkhadka](https://twitter.com/rupeshkhadka)
 
 ## 📈 GitHub Stats
